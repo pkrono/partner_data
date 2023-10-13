@@ -1,2 +1,2 @@
 # partner_data
-Serveless API manage partner data. 
+AWS Serveless API manage partner data. 
